@@ -1,0 +1,6 @@
+owner=599734414305394738
+prefix=$
+game=EVA's BOT
+stayinchannel=true
+songinstatus=false
+token=NjI2NDY2NTk0MTYzMjYxNDcy.XYvMoQ.aun3VFsEbLJKPryKJqELmEnG1jE
