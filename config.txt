@@ -1,5 +1,5 @@
 
-token = NjI2NDY2NTk0MTYzMjYxNDcy.XZGshA.2lDvlBeXd9mQlo02y0oZKMZ0Knc
+token = NjI2NDY2NTk0MTYzMjYxNDcy.XZG9sw.pmp7vlGkf91qcN-5Ux3YdjFNCPU
 
 owner = 599734414305394738
 
