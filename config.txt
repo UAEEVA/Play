@@ -5,7 +5,7 @@ owner = 599734414305394738
 
 prefix = "2"
 
-game = "DEFAULT"
+game = "2Play    2Stop    2Help"
 
 status = ONLINE
 
