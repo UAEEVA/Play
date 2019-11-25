@@ -1,12 +1,15 @@
+﻿
 
-
-token = NjQ4NDMwNjE1NjA3MTE1ODA3.XduILg.mYCSSjiFdqAh510g02KVOd-nSYM
+token = NjQ4NDMwNjE1NjA3MTE1ODA3.XduMjA.u3zcXRE3Q679SXg0tejYiJWqgyk
 
 owner = 599734414305394738
 
-prefix = "3"
 
-game = "3Play    3Stop    3Help"
+prefix = "1"
+
+
+game = "1Play    1Stop    1Help"
+
 
 status = ONLINE
 
@@ -22,16 +25,20 @@ searching = "🔎"
 
 help = "help"
 
+
 npimages = false
 
 stayinchannel = false
+
 
 maxtime = 0
 
 playlistsfolder = Playlists
 
+
 updatealerts = true
 
 lyrics.default = "A-Z Lyrics"
+
 
 eval = false
