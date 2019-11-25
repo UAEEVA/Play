@@ -1,11 +1,12 @@
 
-token = NjI2NDY2NTk0MTYzMjYxNDcy.XdhF1A.C-dSbFQUeDZSavXiZrMsZjyj4R4
+
+token = NjI1MjUyMzg0MDU0MTgxOTE4.XdhGJg.OYt9fEaEMbXJKHQGJyTptlb8-bw
 
 owner = 599734414305394738
 
-prefix = "2"
+prefix = "3"
 
-game = "2Play    2Stop    2Help"
+game = "3Play    3Stop    3Help"
 
 status = ONLINE
 
